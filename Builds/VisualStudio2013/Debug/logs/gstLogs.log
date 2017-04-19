@@ -1,0 +1,181 @@
+0:00:04.375797630  6392 0000000008A69280 ERROR                   rtmp :0:: Closing connection: NetStream.Play.StreamNotFound
+0:00:04.376007918  6392 0000000008A69280 WARN                 rtmpsrc gstrtmpsrc.c:394:gst_rtmp_src_create:<source> error: Failed to read any data from stream, check your URL
+0:00:04.376349205  6392 0000000008A69280 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: Internal data flow error.
+0:00:04.376418918  6392 0000000008A69280 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: streaming task paused, reason error (-5)
+0:00:04.408631315  6392 0000000008A69400 ERROR                   rtmp :0:: Closing connection: NetStream.Play.StreamNotFound
+0:00:04.408778784  6392 0000000008A69400 WARN                 rtmpsrc gstrtmpsrc.c:394:gst_rtmp_src_create:<source> error: Failed to read any data from stream, check your URL
+0:00:04.409105899  6392 0000000008A69400 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: Internal data flow error.
+0:00:04.409164887  6392 0000000008A69400 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: streaming task paused, reason error (-5)
+0:00:04.434953727  6392 0000000008A69580 ERROR                   rtmp :0:: Closing connection: NetStream.Play.StreamNotFound
+0:00:04.435121497  6392 0000000008A69580 WARN                 rtmpsrc gstrtmpsrc.c:394:gst_rtmp_src_create:<source> error: Failed to read any data from stream, check your URL
+0:00:04.435608340  6392 0000000008A69580 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: Internal data flow error.
+0:00:04.435670392  6392 0000000008A69580 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: streaming task paused, reason error (-5)
+0:00:04.438766876  6392 0000000008AFA090 WARN            d3dvideosink d3dhelpers.c:995:d3d_window_wndproc_unset:<videoRenderD3D> D3D window proc is not set on current window
+0:00:04.441237092  6392 0000000008AFA090 WARN            d3dvideosink d3dhelpers.c:995:d3d_window_wndproc_unset:<videoRenderD3D> D3D window proc is not set on current window
+0:00:04.442572747  6392 0000000008AFA090 WARN            d3dvideosink d3dhelpers.c:995:d3d_window_wndproc_unset:<videoRenderD3D> D3D window proc is not set on current window
+0:00:04.634707203  6392 00000000028FF380 WARN           audiobasesink gstaudiobasesink.c:1316:gst_audio_base_sink_skew_slaving:<audioMainPreview-actual-sink-directsound> correct clock skew -21246871 < -20000000
+0:00:05.637380812  6392 00000000028FF380 WARN           audiobasesink gstaudiobasesink.c:1605:gst_audio_base_sink_get_alignment:<audioMainPreview-actual-sink-directsound> Unexpected discontinuity in audio timestamps of -0:00:00.040000000, resyncing
+0:00:06.885358847  6392 0000000008A696C0 ERROR                   rtmp :0:: Closing connection: NetStream.Play.StreamNotFound
+0:00:06.885581393  6392 0000000008A696C0 WARN                 rtmpsrc gstrtmpsrc.c:394:gst_rtmp_src_create:<source> error: Failed to read any data from stream, check your URL
+0:00:06.886259754  6392 0000000008A696C0 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: Internal data flow error.
+0:00:06.886389221  6392 0000000008A696C0 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: streaming task paused, reason error (-5)
+0:00:06.922598242  6392 0000000008A69300 ERROR                   rtmp :0:: Closing connection: NetStream.Play.StreamNotFound
+0:00:06.923294989  6392 0000000008A69300 WARN                 rtmpsrc gstrtmpsrc.c:394:gst_rtmp_src_create:<source> error: Failed to read any data from stream, check your URL
+0:00:06.923810942  6392 0000000008A69300 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: Internal data flow error.
+0:00:06.923863036  6392 0000000008A69300 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: streaming task paused, reason error (-5)
+0:00:06.957556642  6392 0000000008AFA090 WARN            d3dvideosink d3dhelpers.c:995:d3d_window_wndproc_unset:<videoRenderD3D> D3D window proc is not set on current window
+0:00:06.962744517  6392 0000000008AFA090 WARN            d3dvideosink d3dhelpers.c:995:d3d_window_wndproc_unset:<videoRenderD3D> D3D window proc is not set on current window
+0:00:06.969193738  6392 00000000028FF840 ERROR                   rtmp :0:: Closing connection: NetStream.Play.StreamNotFound
+0:00:06.969364573  6392 00000000028FF840 WARN                 rtmpsrc gstrtmpsrc.c:394:gst_rtmp_src_create:<source> error: Failed to read any data from stream, check your URL
+0:00:06.969613931  6392 00000000028FF840 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: Internal data flow error.
+0:00:06.969659896  6392 00000000028FF840 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: streaming task paused, reason error (-5)
+0:00:06.992797725  6392 0000000008AFA090 WARN            d3dvideosink d3dhelpers.c:995:d3d_window_wndproc_unset:<videoRenderD3D> D3D window proc is not set on current window
+0:00:07.536042207  6392 00000000028FF380 WARN           audiobasesink gstaudiobasesink.c:1316:gst_audio_base_sink_skew_slaving:<audioMainPreview-actual-sink-directsound> correct clock skew -20003608 < -20000000
+0:00:07.600064044  6392 00000000028FF380 WARN           audiobasesink gstaudiobasesink.c:1288:gst_audio_base_sink_skew_slaving:<audioMainPreview-actual-sink-directsound> correct clock skew 20016063 > 20000000
+0:00:07.664022679  6392 00000000028FF380 WARN           audiobasesink gstaudiobasesink.c:1316:gst_audio_base_sink_skew_slaving:<audioMainPreview-actual-sink-directsound> correct clock skew -20031476 < -20000000
+0:00:07.770777832  6392 00000000028FF380 WARN           audiobasesink gstaudiobasesink.c:1288:gst_audio_base_sink_skew_slaving:<audioMainPreview-actual-sink-directsound> correct clock skew 20012975 > 20000000
+0:00:07.813411177  6392 00000000028FF380 WARN           audiobasesink gstaudiobasesink.c:1316:gst_audio_base_sink_skew_slaving:<audioMainPreview-actual-sink-directsound> correct clock skew -20018605 < -20000000
+0:00:08.197362932  6392 00000000028FF380 WARN           audiobasesink gstaudiobasesink.c:1288:gst_audio_base_sink_skew_slaving:<audioMainPreview-actual-sink-directsound> correct clock skew 20009855 > 20000000
+0:00:08.346674056  6392 00000000028FF380 WARN           audiobasesink gstaudiobasesink.c:1316:gst_audio_base_sink_skew_slaving:<audioMainPreview-actual-sink-directsound> correct clock skew -20114793 < -20000000
+0:00:08.367993601  6392 00000000028FF380 WARN           audiobasesink gstaudiobasesink.c:1288:gst_audio_base_sink_skew_slaving:<audioMainPreview-actual-sink-directsound> correct clock skew 20020535 > 20000000
+0:00:08.496085154  6392 00000000028FF380 WARN           audiobasesink gstaudiobasesink.c:1316:gst_audio_base_sink_skew_slaving:<audioMainPreview-actual-sink-directsound> correct clock skew -20094279 < -20000000
+0:00:09.412801839  6392 0000000008A69700 ERROR                   rtmp :0:: Closing connection: NetStream.Play.StreamNotFound
+0:00:09.412884958  6392 0000000008A69700 WARN                 rtmpsrc gstrtmpsrc.c:394:gst_rtmp_src_create:<source> error: Failed to read any data from stream, check your URL
+0:00:09.413195219  6392 0000000008A69700 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: Internal data flow error.
+0:00:09.413254973  6392 0000000008A69700 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: streaming task paused, reason error (-5)
+0:00:09.437240467  6392 0000000008A69300 ERROR                   rtmp :0:: Closing connection: NetStream.Play.StreamNotFound
+0:00:09.437580222  6392 0000000008A69300 WARN                 rtmpsrc gstrtmpsrc.c:394:gst_rtmp_src_create:<source> error: Failed to read any data from stream, check your URL
+0:00:09.438723975  6392 0000000008A69300 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: Internal data flow error.
+0:00:09.438842334  6392 0000000008A69300 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: streaming task paused, reason error (-5)
+0:00:09.448243251  6392 0000000008AFA090 WARN            d3dvideosink d3dhelpers.c:995:d3d_window_wndproc_unset:<videoRenderD3D> D3D window proc is not set on current window
+0:00:09.449701861  6392 0000000008AFA090 WARN            d3dvideosink d3dhelpers.c:995:d3d_window_wndproc_unset:<videoRenderD3D> D3D window proc is not set on current window
+0:00:09.498714714  6392 00000000028FF380 WARN           audiobasesink gstaudiobasesink.c:1605:gst_audio_base_sink_get_alignment:<audioMainPreview-actual-sink-directsound> Unexpected discontinuity in audio timestamps of -0:00:00.040000000, resyncing
+0:00:09.839974520  6392 00000000028FF380 WARN           audiobasesink gstaudiobasesink.c:1288:gst_audio_base_sink_skew_slaving:<audioMainPreview-actual-sink-directsound> correct clock skew 20018875 > 20000000
+0:00:09.903994441  6392 00000000028FF380 WARN           audiobasesink gstaudiobasesink.c:1316:gst_audio_base_sink_skew_slaving:<audioMainPreview-actual-sink-directsound> correct clock skew -20027588 < -20000000
+0:00:10.010662645  6392 00000000028FF380 WARN           audiobasesink gstaudiobasesink.c:1288:gst_audio_base_sink_skew_slaving:<audioMainPreview-actual-sink-directsound> correct clock skew 20024619 > 20000000
+0:00:10.053300969  6392 00000000028FF380 WARN           audiobasesink gstaudiobasesink.c:1316:gst_audio_base_sink_skew_slaving:<audioMainPreview-actual-sink-directsound> correct clock skew -20003659 < -20000000
+0:00:10.138725469  6392 00000000028FF380 WARN           audiobasesink gstaudiobasesink.c:1288:gst_audio_base_sink_skew_slaving:<audioMainPreview-actual-sink-directsound> correct clock skew 20072799 > 20000000
+0:00:10.245299829  6392 00000000028FF380 WARN           audiobasesink gstaudiobasesink.c:1316:gst_audio_base_sink_skew_slaving:<audioMainPreview-actual-sink-directsound> correct clock skew -20015569 < -20000000
+0:00:10.309425852  6392 00000000028FF380 WARN           audiobasesink gstaudiobasesink.c:1288:gst_audio_base_sink_skew_slaving:<audioMainPreview-actual-sink-directsound> correct clock skew 20070267 > 20000000
+0:00:10.394733525  6392 00000000028FF380 WARN           audiobasesink gstaudiobasesink.c:1316:gst_audio_base_sink_skew_slaving:<audioMainPreview-actual-sink-directsound> correct clock skew -20001691 < -20000000
+0:00:11.859742375  6392 0000000008A69500 ERROR                   rtmp :0:: Closing connection: NetStream.Play.StreamNotFound
+0:00:11.859824346  6392 0000000008A69500 WARN                 rtmpsrc gstrtmpsrc.c:394:gst_rtmp_src_create:<source> error: Failed to read any data from stream, check your URL
+0:00:11.860110476  6392 0000000008A69500 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: Internal data flow error.
+0:00:11.860164867  6392 0000000008A69500 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: streaming task paused, reason error (-5)
+0:00:11.881250375  6392 0000000008A691C0 ERROR                   rtmp :0:: Closing connection: NetStream.Play.StreamNotFound
+0:00:11.881503181  6392 0000000008A691C0 WARN                 rtmpsrc gstrtmpsrc.c:394:gst_rtmp_src_create:<source> error: Failed to read any data from stream, check your URL
+0:00:11.882298752  6392 0000000008A691C0 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: Internal data flow error.
+0:00:11.882361187  6392 0000000008A691C0 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: streaming task paused, reason error (-5)
+0:00:11.885859096  6392 0000000008AFA090 WARN            d3dvideosink d3dhelpers.c:995:d3d_window_wndproc_unset:<videoRenderD3D> D3D window proc is not set on current window
+0:00:11.887708406  6392 0000000008AFA090 WARN            d3dvideosink d3dhelpers.c:995:d3d_window_wndproc_unset:<videoRenderD3D> D3D window proc is not set on current window
+0:00:14.359040457  6392 0000000008A696C0 ERROR                   rtmp :0:: Closing connection: NetStream.Play.StreamNotFound
+0:00:14.359194056  6392 0000000008A696C0 WARN                 rtmpsrc gstrtmpsrc.c:394:gst_rtmp_src_create:<source> error: Failed to read any data from stream, check your URL
+0:00:14.359660214  6392 0000000008A696C0 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: Internal data flow error.
+0:00:14.359747163  6392 0000000008A696C0 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: streaming task paused, reason error (-5)
+0:00:14.428586476  6392 0000000008A69580 ERROR                   rtmp :0:: Closing connection: NetStream.Play.StreamNotFound
+0:00:14.428855752  6392 0000000008A69580 WARN                 rtmpsrc gstrtmpsrc.c:394:gst_rtmp_src_create:<source> error: Failed to read any data from stream, check your URL
+0:00:14.429522622  6392 0000000008A69580 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: Internal data flow error.
+0:00:14.429586207  6392 0000000008A69580 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: streaming task paused, reason error (-5)
+0:00:14.430495157  6392 0000000008AFA090 WARN            d3dvideosink d3dhelpers.c:995:d3d_window_wndproc_unset:<videoRenderD3D> D3D window proc is not set on current window
+0:00:14.432239515  6392 0000000008AFA090 WARN            d3dvideosink d3dhelpers.c:995:d3d_window_wndproc_unset:<videoRenderD3D> D3D window proc is not set on current window
+0:00:16.864277552  6392 0000000008A69780 ERROR                   rtmp :0:: Closing connection: NetStream.Play.StreamNotFound
+0:00:16.864522697  6392 0000000008A69780 WARN                 rtmpsrc gstrtmpsrc.c:394:gst_rtmp_src_create:<source> error: Failed to read any data from stream, check your URL
+0:00:16.865080401  6392 0000000008A69780 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: Internal data flow error.
+0:00:16.865173480  6392 0000000008A69780 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: streaming task paused, reason error (-5)
+0:00:16.886440165  6392 0000000008A69800 ERROR                   rtmp :0:: Closing connection: NetStream.Play.StreamNotFound
+0:00:16.886676883  6392 0000000008A69800 WARN                 rtmpsrc gstrtmpsrc.c:394:gst_rtmp_src_create:<source> error: Failed to read any data from stream, check your URL
+0:00:16.888128982  6392 0000000008A69800 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: Internal data flow error.
+0:00:16.888363019  6392 0000000008A69800 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: streaming task paused, reason error (-5)
+0:00:16.891920681  6392 0000000008AFA090 WARN            d3dvideosink d3dhelpers.c:995:d3d_window_wndproc_unset:<videoRenderD3D> D3D window proc is not set on current window
+0:00:16.893501099  6392 0000000008AFA090 WARN            d3dvideosink d3dhelpers.c:995:d3d_window_wndproc_unset:<videoRenderD3D> D3D window proc is not set on current window
+0:00:19.422660486  6392 000000000EA9E080 ERROR                   rtmp :0:: Closing connection: NetStream.Play.StreamNotFound
+0:00:19.424124076  6392 000000000EA9E080 WARN                 rtmpsrc gstrtmpsrc.c:394:gst_rtmp_src_create:<source> error: Failed to read any data from stream, check your URL
+0:00:19.424417484  6392 000000000EA9E080 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: Internal data flow error.
+0:00:19.424465364  6392 000000000EA9E080 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: streaming task paused, reason error (-5)
+0:00:19.435455890  6392 0000000008AFA090 WARN            d3dvideosink d3dhelpers.c:995:d3d_window_wndproc_unset:<videoRenderD3D> D3D window proc is not set on current window
+0:00:19.443330398  6392 000000000EA9E000 ERROR                   rtmp :0:: Closing connection: NetStream.Play.StreamNotFound
+0:00:19.443425774  6392 000000000EA9E000 WARN                 rtmpsrc gstrtmpsrc.c:394:gst_rtmp_src_create:<source> error: Failed to read any data from stream, check your URL
+0:00:19.443732205  6392 000000000EA9E000 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: Internal data flow error.
+0:00:19.443779702  6392 000000000EA9E000 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: streaming task paused, reason error (-5)
+0:00:19.461146289  6392 0000000008AFA090 WARN            d3dvideosink d3dhelpers.c:995:d3d_window_wndproc_unset:<videoRenderD3D> D3D window proc is not set on current window
+0:00:21.851838374  6392 000000000EF16000 ERROR                   rtmp :0:: Closing connection: NetStream.Play.StreamNotFound
+0:00:21.851963245  6392 000000000EF16000 WARN                 rtmpsrc gstrtmpsrc.c:394:gst_rtmp_src_create:<source> error: Failed to read any data from stream, check your URL
+0:00:21.852332494  6392 000000000EF16000 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: Internal data flow error.
+0:00:21.852390716  6392 000000000EF16000 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: streaming task paused, reason error (-5)
+0:00:21.875325918  6392 000000000EF16180 ERROR                   rtmp :0:: Closing connection: NetStream.Play.StreamNotFound
+0:00:21.875475303  6392 000000000EF16180 WARN                 rtmpsrc gstrtmpsrc.c:394:gst_rtmp_src_create:<source> error: Failed to read any data from stream, check your URL
+0:00:21.875789777  6392 000000000EF16180 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: Internal data flow error.
+0:00:21.875848765  6392 000000000EF16180 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: streaming task paused, reason error (-5)
+0:00:21.877833671  6392 0000000008AFA090 WARN            d3dvideosink d3dhelpers.c:995:d3d_window_wndproc_unset:<videoRenderD3D> D3D window proc is not set on current window
+0:00:21.883377006  6392 0000000008AFA090 WARN            d3dvideosink d3dhelpers.c:995:d3d_window_wndproc_unset:<videoRenderD3D> D3D window proc is not set on current window
+0:00:24.366811161  6392 0000000008A69F80 ERROR                   rtmp :0:: Closing connection: NetStream.Play.StreamNotFound
+0:00:24.368257515  6392 0000000008A69F80 WARN                 rtmpsrc gstrtmpsrc.c:394:gst_rtmp_src_create:<source> error: Failed to read any data from stream, check your URL
+0:00:24.368896040  6392 0000000008A69F80 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: Internal data flow error.
+0:00:24.369015165  6392 0000000008A69F80 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: streaming task paused, reason error (-5)
+0:00:24.391719778  6392 000000000EF16140 ERROR                   rtmp :0:: Closing connection: NetStream.Play.StreamNotFound
+0:00:24.391822815  6392 000000000EF16140 WARN                 rtmpsrc gstrtmpsrc.c:394:gst_rtmp_src_create:<source> error: Failed to read any data from stream, check your URL
+0:00:24.392360218  6392 000000000EF16140 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: Internal data flow error.
+0:00:24.392428016  6392 000000000EF16140 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: streaming task paused, reason error (-5)
+0:00:24.394281540  6392 0000000008AFA090 WARN            d3dvideosink d3dhelpers.c:995:d3d_window_wndproc_unset:<videoRenderD3D> D3D window proc is not set on current window
+0:00:24.396032026  6392 0000000008AFA090 WARN            d3dvideosink d3dhelpers.c:995:d3d_window_wndproc_unset:<videoRenderD3D> D3D window proc is not set on current window
+0:00:26.856357846  6392 0000000008A69F80 ERROR                   rtmp :0:: Closing connection: NetStream.Play.StreamNotFound
+0:00:26.856512977  6392 0000000008A69F80 WARN                 rtmpsrc gstrtmpsrc.c:394:gst_rtmp_src_create:<source> error: Failed to read any data from stream, check your URL
+0:00:26.857948223  6392 0000000008A69F80 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: Internal data flow error.
+0:00:26.858053175  6392 0000000008A69F80 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: streaming task paused, reason error (-5)
+0:00:26.876872244  6392 000000000EF160C0 ERROR                   rtmp :0:: Closing connection: NetStream.Play.StreamNotFound
+0:00:26.877037717  6392 000000000EF160C0 WARN                 rtmpsrc gstrtmpsrc.c:394:gst_rtmp_src_create:<source> error: Failed to read any data from stream, check your URL
+0:00:26.877308908  6392 000000000EF160C0 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: Internal data flow error.
+0:00:26.877367896  6392 000000000EF160C0 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: streaming task paused, reason error (-5)
+0:00:26.879126426  6392 0000000008AFA090 WARN            d3dvideosink d3dhelpers.c:995:d3d_window_wndproc_unset:<videoRenderD3D> D3D window proc is not set on current window
+0:00:26.880357512  6392 0000000008AFA090 WARN            d3dvideosink d3dhelpers.c:995:d3d_window_wndproc_unset:<videoRenderD3D> D3D window proc is not set on current window
+0:00:29.346700486  6392 0000000008A69EC0 ERROR                   rtmp :0:: Closing connection: NetStream.Play.StreamNotFound
+0:00:29.346865959  6392 0000000008A69EC0 WARN                 rtmpsrc gstrtmpsrc.c:394:gst_rtmp_src_create:<source> error: Failed to read any data from stream, check your URL
+0:00:29.347162814  6392 0000000008A69EC0 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: Internal data flow error.
+0:00:29.347219886  6392 0000000008A69EC0 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: streaming task paused, reason error (-5)
+0:00:29.368732866  6392 000000000EF160C0 ERROR                   rtmp :0:: Closing connection: NetStream.Play.StreamNotFound
+0:00:29.368835137  6392 000000000EF160C0 WARN                 rtmpsrc gstrtmpsrc.c:394:gst_rtmp_src_create:<source> error: Failed to read any data from stream, check your URL
+0:00:29.369146547  6392 000000000EF160C0 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: Internal data flow error.
+0:00:29.369208983  6392 000000000EF160C0 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: streaming task paused, reason error (-5)
+0:00:29.370379932  6392 0000000008AFA090 WARN            d3dvideosink d3dhelpers.c:995:d3d_window_wndproc_unset:<videoRenderD3D> D3D window proc is not set on current window
+0:00:29.372620324  6392 0000000008AFA090 WARN            d3dvideosink d3dhelpers.c:995:d3d_window_wndproc_unset:<videoRenderD3D> D3D window proc is not set on current window
+0:00:29.655635282  6392 0000000008A692C0 WARN            audiodecoder gstaudiodecoder.c:1459:gst_audio_decoder_drain:<faad0> still 1 frames left after draining
+0:00:31.874562522  6392 0000000008A69C80 ERROR                   rtmp :0:: Closing connection: NetStream.Play.StreamNotFound
+0:00:31.874678582  6392 0000000008A69C80 WARN                 rtmpsrc gstrtmpsrc.c:394:gst_rtmp_src_create:<source> error: Failed to read any data from stream, check your URL
+0:00:31.875009911  6392 0000000008A69C80 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: Internal data flow error.
+0:00:31.875071197  6392 0000000008A69C80 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: streaming task paused, reason error (-5)
+0:00:31.894575905  6392 0000000008A69940 ERROR                   rtmp :0:: Closing connection: NetStream.Play.StreamNotFound
+0:00:31.894680091  6392 0000000008A69940 WARN                 rtmpsrc gstrtmpsrc.c:394:gst_rtmp_src_create:<source> error: Failed to read any data from stream, check your URL
+0:00:31.894969669  6392 0000000008A69940 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: Internal data flow error.
+0:00:31.895033636  6392 0000000008A69940 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: streaming task paused, reason error (-5)
+0:00:31.897577778  6392 0000000008AFA090 WARN            d3dvideosink d3dhelpers.c:995:d3d_window_wndproc_unset:<videoRenderD3D> D3D window proc is not set on current window
+0:00:31.899181944  6392 0000000008AFA090 WARN            d3dvideosink d3dhelpers.c:995:d3d_window_wndproc_unset:<videoRenderD3D> D3D window proc is not set on current window
+0:00:33.375951228  6392 0000000008A69680 ERROR                   rtmp :0:: Closing connection: NetStream.Play.StreamNotFound
+0:00:33.376117850  6392 0000000008A69680 WARN                 rtmpsrc gstrtmpsrc.c:394:gst_rtmp_src_create:<source> error: Failed to read any data from stream, check your URL
+0:00:33.376502804  6392 0000000008A69680 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: Internal data flow error.
+0:00:33.376600478  6392 0000000008A69680 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: streaming task paused, reason error (-5)
+0:00:33.379352994  6392 0000000008AFA090 WARN            d3dvideosink d3dhelpers.c:995:d3d_window_wndproc_unset:<videoRenderD3D> D3D window proc is not set on current window
+0:00:34.367337456  6392 0000000008A699C0 ERROR                   rtmp :0:: Closing connection: NetStream.Play.StreamNotFound
+0:00:34.367436280  6392 0000000008A699C0 WARN                 rtmpsrc gstrtmpsrc.c:394:gst_rtmp_src_create:<source> error: Failed to read any data from stream, check your URL
+0:00:34.367773737  6392 0000000008A699C0 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: Internal data flow error.
+0:00:34.367825064  6392 0000000008A699C0 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: streaming task paused, reason error (-5)
+0:00:34.383338893  6392 0000000008A69B40 ERROR                   rtmp :0:: Closing connection: NetStream.Play.StreamNotFound
+0:00:34.383479852  6392 0000000008A69B40 WARN                 rtmpsrc gstrtmpsrc.c:394:gst_rtmp_src_create:<source> error: Failed to read any data from stream, check your URL
+0:00:34.383784367  6392 0000000008A69B40 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: Internal data flow error.
+0:00:34.383839142  6392 0000000008A69B40 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: streaming task paused, reason error (-5)
+0:00:34.385876524  6392 0000000008AFA090 WARN            d3dvideosink d3dhelpers.c:995:d3d_window_wndproc_unset:<videoRenderD3D> D3D window proc is not set on current window
+0:00:34.387263124  6392 0000000008AFA090 WARN            d3dvideosink d3dhelpers.c:995:d3d_window_wndproc_unset:<videoRenderD3D> D3D window proc is not set on current window
+0:00:35.870793039  6392 0000000008A69600 ERROR                   rtmp :0:: Closing connection: NetStream.Play.StreamNotFound
+0:00:35.870935529  6392 0000000008A69600 WARN                 rtmpsrc gstrtmpsrc.c:394:gst_rtmp_src_create:<source> error: Failed to read any data from stream, check your URL
+0:00:35.871275284  6392 0000000008A69600 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: Internal data flow error.
+0:00:35.871333506  6392 0000000008A69600 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: streaming task paused, reason error (-5)
+0:00:35.873512996  6392 0000000008AFA090 WARN            d3dvideosink d3dhelpers.c:995:d3d_window_wndproc_unset:<videoRenderD3D> D3D window proc is not set on current window
+0:00:36.870433749  6392 0000000008A69700 ERROR                   rtmp :0:: Closing connection: NetStream.Play.StreamNotFound
+0:00:36.870586198  6392 0000000008A69700 WARN                 rtmpsrc gstrtmpsrc.c:394:gst_rtmp_src_create:<source> error: Failed to read any data from stream, check your URL
+0:00:36.871045844  6392 0000000008A69700 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: Internal data flow error.
+0:00:36.871125899  6392 0000000008A69700 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: streaming task paused, reason error (-5)
+0:00:36.892733489  6392 0000000008A69E00 ERROR                   rtmp :0:: Closing connection: NetStream.Play.StreamNotFound
+0:00:36.892824653  6392 0000000008A69E00 WARN                 rtmpsrc gstrtmpsrc.c:394:gst_rtmp_src_create:<source> error: Failed to read any data from stream, check your URL
+0:00:36.893156364  6392 0000000008A69E00 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: Internal data flow error.
+0:00:36.893218799  6392 0000000008A69E00 WARN                 basesrc gstbasesrc.c:2933:gst_base_src_loop:<source> error: streaming task paused, reason error (-5)
+0:00:36.894865099  6392 0000000008AFA090 WARN            d3dvideosink d3dhelpers.c:995:d3d_window_wndproc_unset:<videoRenderD3D> D3D window proc is not set on current window
+0:00:36.896030303  6392 0000000008AFA090 WARN            d3dvideosink d3dhelpers.c:995:d3d_window_wndproc_unset:<videoRenderD3D> D3D window proc is not set on current window

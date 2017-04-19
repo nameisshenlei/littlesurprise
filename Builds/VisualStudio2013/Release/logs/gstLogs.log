@@ -1,0 +1,72 @@
+0:00:02.088444377  8744 0000000002989400 WARN           audiobasesink gstaudiobasesink.c:1316:gst_audio_base_sink_skew_slaving:<audioMainPreview-actual-sink-directsound> correct clock skew -20711778 < -20000000
+0:00:02.771088094  8744 0000000002989400 WARN           audiobasesink gstaudiobasesink.c:1316:gst_audio_base_sink_skew_slaving:<audioMainPreview-actual-sink-directsound> correct clock skew -20067728 < -20000000
+0:00:13.180382832  8744 0000000002989840 ERROR                   rtmp :0:: WriteN, RTMP send error 10053 (129 bytes)
+0:00:13.180514597  8744 0000000002989840 ERROR                   rtmp :0:: WriteN, RTMP send error 10053 (40 bytes)
+0:00:13.180602696  8744 0000000002989840 ERROR                   rtmp :0:: WriteN, RTMP send error 10053 (40 bytes)
+0:00:13.180728715  8744 0000000002989840 ERROR                   rtmp :0:: WriteN, RTMP send error 10053 (40 bytes)
+0:00:13.180774680  8744 0000000002989840 ERROR                   rtmp :0:: WriteN, RTMP send error 10053 (40 bytes)
+0:00:13.180813750  8744 0000000002989840 ERROR                   rtmp :0:: WriteN, RTMP send error 10053 (40 bytes)
+0:00:13.180855884  8744 0000000002989840 ERROR                   rtmp :0:: WriteN, RTMP send error 10053 (40 bytes)
+0:00:13.180900700  8744 0000000002989840 ERROR                   rtmp :0:: WriteN, RTMP send error 10053 (40 bytes)
+0:00:13.180946664  8744 0000000002989840 ERROR                   rtmp :0:: WriteN, RTMP send error 10053 (40 bytes)
+0:00:13.180996459  8744 0000000002989840 ERROR                   rtmp :0:: WriteN, RTMP send error 10053 (40 bytes)
+0:00:13.181041658  8744 0000000002989840 ERROR                   rtmp :0:: WriteN, RTMP send error 10053 (40 bytes)
+0:00:13.181088389  8744 0000000002989840 ERROR                   rtmp :0:: WriteN, RTMP send error 10053 (40 bytes)
+0:00:13.181136651  8744 0000000002989840 ERROR                   rtmp :0:: WriteN, RTMP send error 10053 (40 bytes)
+0:00:13.181181084  8744 0000000002989840 ERROR                   rtmp :0:: WriteN, RTMP send error 10053 (40 bytes)
+0:00:13.181228964  8744 0000000002989840 ERROR                   rtmp :0:: WriteN, RTMP send error 10053 (40 bytes)
+0:00:13.181273779  8744 0000000002989840 ERROR                   rtmp :0:: WriteN, RTMP send error 10053 (40 bytes)
+0:00:13.181318595  8744 0000000002989840 ERROR                   rtmp :0:: WriteN, RTMP send error 10053 (40 bytes)
+0:00:13.181366858  8744 0000000002989840 ERROR                   rtmp :0:: WriteN, RTMP send error 10053 (40 bytes)
+0:00:13.181411290  8744 0000000002989840 ERROR                   rtmp :0:: WriteN, RTMP send error 10053 (40 bytes)
+0:00:13.181458404  8744 0000000002989840 ERROR                   rtmp :0:: WriteN, RTMP send error 10053 (40 bytes)
+0:00:13.181514328  8744 0000000002989840 ERROR                   rtmp :0:: WriteN, RTMP send error 10053 (40 bytes)
+0:00:13.181573698  8744 0000000002989840 ERROR                   rtmp :0:: WriteN, RTMP send error 10053 (40 bytes)
+0:00:13.181682481  8744 0000000002989840 ERROR                   rtmp :0:: WriteN, RTMP send error 10053 (40 bytes)
+0:00:13.181733426  8744 0000000002989840 ERROR                   rtmp :0:: WriteN, RTMP send error 10053 (40 bytes)
+0:00:13.181778241  8744 0000000002989840 ERROR                   rtmp :0:: WriteN, RTMP send error 10053 (40 bytes)
+0:00:13.181828419  8744 0000000002989840 ERROR                   rtmp :0:: WriteN, RTMP send error 10053 (40 bytes)
+0:00:13.181872469  8744 0000000002989840 ERROR                   rtmp :0:: WriteN, RTMP send error 10053 (40 bytes)
+0:00:13.181934521  8744 0000000002989840 ERROR                   rtmp :0:: WriteN, RTMP send error 10053 (40 bytes)
+0:00:13.182050198  8744 0000000002989840 ERROR                   rtmp :0:: WriteN, RTMP send error 10053 (40 bytes)
+0:00:13.182095780  8744 0000000002989840 ERROR                   rtmp :0:: WriteN, RTMP send error 10053 (40 bytes)
+0:00:13.182162046  8744 0000000002989840 ERROR                   rtmp :0:: WriteN, RTMP send error 10053 (40 bytes)
+0:00:13.182317559  8744 0000000002989840 ERROR                   rtmp :0:: WriteN, RTMP send error 10053 (40 bytes)
+0:00:13.182469243  8744 0000000002989840 ERROR                   rtmp :0:: WriteN, RTMP send error 10053 (40 bytes)
+0:00:13.182525549  8744 0000000002989840 ERROR                   rtmp :0:: WriteN, RTMP send error 10053 (40 bytes)
+0:00:13.182584920  8744 0000000002989840 ERROR                   rtmp :0:: WriteN, RTMP send error 10053 (40 bytes)
+0:00:13.182646207  8744 0000000002989840 ERROR                   rtmp :0:: WriteN, RTMP send error 10053 (40 bytes)
+0:00:13.182713621  8744 0000000002989840 ERROR                   rtmp :0:: WriteN, RTMP send error 10053 (40 bytes)
+0:00:13.182771843  8744 0000000002989840 ERROR                   rtmp :0:: WriteN, RTMP send error 10053 (40 bytes)
+0:00:13.182819340  8744 0000000002989840 ERROR                   rtmp :0:: WriteN, RTMP send error 10053 (40 bytes)
+0:00:13.182889819  8744 0000000002989840 ERROR                   rtmp :0:: WriteN, RTMP send error 10053 (40 bytes)
+0:00:13.182938465  8744 0000000002989840 ERROR                   rtmp :0:: WriteN, RTMP send error 10053 (40 bytes)
+0:00:13.182988260  8744 0000000002989840 ERROR                   rtmp :0:: WriteN, RTMP send error 10053 (40 bytes)
+0:00:13.183095128  8744 0000000002989840 ERROR                   rtmp :0:: WriteN, RTMP send error 10053 (40 bytes)
+0:00:13.183148753  8744 0000000002989840 ERROR                   rtmp :0:: WriteN, RTMP send error 10053 (40 bytes)
+0:00:13.183197016  8744 0000000002989840 ERROR                   rtmp :0:: WriteN, RTMP send error 10053 (40 bytes)
+0:00:13.183241832  8744 0000000002989840 ERROR                   rtmp :0:: WriteN, RTMP send error 10053 (40 bytes)
+0:00:13.183290860  8744 0000000002989840 ERROR                   rtmp :0:: WriteN, RTMP send error 10053 (40 bytes)
+0:00:13.183336059  8744 0000000002989840 ERROR                   rtmp :0:: WriteN, RTMP send error 10053 (40 bytes)
+0:00:13.183381258  8744 0000000002989840 ERROR                   rtmp :0:: WriteN, RTMP send error 10053 (40 bytes)
+0:00:13.183431053  8744 0000000002989840 ERROR                   rtmp :0:: WriteN, RTMP send error 10053 (40 bytes)
+0:00:13.183478932  8744 0000000002989840 ERROR                   rtmp :0:: WriteN, RTMP send error 10053 (40 bytes)
+0:00:13.183545964  8744 0000000002989840 ERROR                   rtmp :0:: WriteN, RTMP send error 10053 (40 bytes)
+0:00:13.183622572  8744 0000000002989840 ERROR                   rtmp :0:: WriteN, RTMP send error 10053 (40 bytes)
+0:00:13.183671218  8744 0000000002989840 ERROR                   rtmp :0:: WriteN, RTMP send error 10053 (40 bytes)
+0:00:13.183719481  8744 0000000002989840 ERROR                   rtmp :0:: WriteN, RTMP send error 10053 (40 bytes)
+0:00:13.183765062  8744 0000000002989840 ERROR                   rtmp :0:: WriteN, RTMP send error 10053 (40 bytes)
+0:00:13.183811027  8744 0000000002989840 ERROR                   rtmp :0:: WriteN, RTMP send error 10053 (40 bytes)
+0:00:14.346157337  8744 0000000002989400 WARN           audiobasesink gstaudiobasesink.c:1316:gst_audio_base_sink_skew_slaving:<audioMainPreview-actual-sink-directsound> correct clock skew -36953960 < -20000000
+0:00:14.350335522  8744 0000000002989400 WARN           audiobasesink gstaudiobasesink.c:1316:gst_audio_base_sink_skew_slaving:<audioMainPreview-actual-sink-directsound> correct clock skew -30771254 < -20000000
+0:00:14.351165950  8744 0000000002989400 WARN           audiobasesink gstaudiobasesink.c:1316:gst_audio_base_sink_skew_slaving:<audioMainPreview-actual-sink-directsound> correct clock skew -23558391 < -20000000
+0:00:14.351415308  8744 0000000002989400 WARN           audiobasesink gstaudiobasesink.c:1316:gst_audio_base_sink_skew_slaving:<audioMainPreview-actual-sink-directsound> correct clock skew -46104533 < -20000000
+0:00:14.351581547  8744 0000000002989400 WARN           audiobasesink gstaudiobasesink.c:1316:gst_audio_base_sink_skew_slaving:<audioMainPreview-actual-sink-directsound> correct clock skew -35925672 < -20000000
+0:00:14.351699906  8744 0000000002989400 WARN           audiobasesink gstaudiobasesink.c:1316:gst_audio_base_sink_skew_slaving:<audioMainPreview-actual-sink-directsound> correct clock skew -24818814 < -20000000
+0:00:14.351843928  8744 0000000002989400 WARN           audiobasesink gstaudiobasesink.c:1316:gst_audio_base_sink_skew_slaving:<audioMainPreview-actual-sink-directsound> correct clock skew -39932586 < -20000000
+0:00:14.351914791  8744 0000000002989400 WARN           audiobasesink gstaudiobasesink.c:1316:gst_audio_base_sink_skew_slaving:<audioMainPreview-actual-sink-directsound> correct clock skew -26207239 < -20000000
+0:00:14.352013231  8744 0000000002989400 WARN           audiobasesink gstaudiobasesink.c:1316:gst_audio_base_sink_skew_slaving:<audioMainPreview-actual-sink-directsound> correct clock skew -36324190 < -20000000
+0:00:14.352081795  8744 0000000002989400 WARN           audiobasesink gstaudiobasesink.c:1316:gst_audio_base_sink_skew_slaving:<audioMainPreview-actual-sink-directsound> correct clock skew -20216837 < -20000000
+0:00:14.352179087  8744 0000000002989400 WARN           audiobasesink gstaudiobasesink.c:1316:gst_audio_base_sink_skew_slaving:<audioMainPreview-actual-sink-directsound> correct clock skew -25790655 < -20000000
+0:00:14.352433042  8744 0000000002989400 WARN           audiobasesink gstaudiobasesink.c:1316:gst_audio_base_sink_skew_slaving:<audioMainPreview-actual-sink-directsound> correct clock skew -28576111 < -20000000
+0:00:14.352545272  8744 0000000002989400 WARN           audiobasesink gstaudiobasesink.c:1316:gst_audio_base_sink_skew_slaving:<audioMainPreview-actual-sink-directsound>
